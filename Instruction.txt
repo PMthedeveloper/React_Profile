@@ -1,0 +1,5 @@
+To start the development server
+
+>>> npm install
+
+>>> npm run start

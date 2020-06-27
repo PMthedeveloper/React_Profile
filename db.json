@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstname": "Priyank",
+      "lastname": "Mithaiwala",
+      "email": "priyankmithaiwala@gmail.com",
+      "dob": "1999-01-08",
+      "ShortBIO": "Be sure to have your pages set up with the latest design and development standards. That means using an HTML5 doctype and including a viewport meta tag for proper responsive behaviors. Put it all together and your pages should look like this:",
+      "id": 1
+    },
+    {
+      "firstname": "Divyen",
+      "lastname": "Mithaiwala",
+      "email": "dm@gmail.com",
+      "dob": "1996-03-19",
+      "ShortBIO": "Be sure to have your pages set up with the latest design and development standards. That means using an HTML5 doctype and including a viewport meta tag for proper responsive behaviors. Put it all together and your pages should look like this:",
+      "id": 2
+    },
+    {
+      "firstname": "Ashwin",
+      "lastname": "Mithaiwala",
+      "email": "am@gmail.com",
+      "dob": "2020-06-15",
+      "ShortBIO": "Its is best of best",
+      "id": 3
+    },
+    {
+      "firstname": "Chintan",
+      "lastname": "Patel",
+      "email": "cp@gmail.com",
+      "dob": "2020-06-24",
+      "ShortBIO": "It is a mad boy",
+      "id": 4
+    }
+  ]
+}
