@@ -23,7 +23,7 @@ const ViewUser = () => {
   };
   return (
     <div className="container py-4">
-      <Link className="btn btn-primary" to="/">
+      <Link className="btn btn-primary" to="/view">
         back to Home
       </Link>
         <br/>
