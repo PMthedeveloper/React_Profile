@@ -1,12 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://master.dkynqqw95amnc.amplifyapp.com/
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm install concurrently json-server bootstrap axios`
+## Run the project on localserver
+
+### `npm install`
 
 ### `npm run start`
 
